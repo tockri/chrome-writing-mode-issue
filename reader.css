@@ -1,0 +1,6 @@
+.reader {
+    width: 100vw;
+    height: 80vh;
+    writing-mode: vertical-rl;
+    overflow: scroll;
+}
